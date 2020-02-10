@@ -1,0 +1,20 @@
+1.Create Account class with a default constructor and take input from user for accName,accNo and balance. 
+Write the following functions : 
+a)display()—to display details 
+b)deposit()---take amount as argument 
+c)withdraw()—take amount  as argument—also print a message if the amount is insufficient.. 
+d)checkBalance()—to display the total amount after deposit and withdraw. 
+
+
+
+2. Create Employee class with a default  constructor  and take input from user for      empId,eName,salary. 
+Write a function  to display employee details… 
+Create atleast three objects and call the display function respectively. 
+Find out the highest salary of an employee…. 
+ 
+3.Create a class Book with a parameterized constructor     having Title, Book Publisher, Author . 
+ 
+Write a method to display the details of the Book and Test the class by creating 3 objects . 
+ 
+Input should be taken from  user.. 
+ 
